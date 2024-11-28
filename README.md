@@ -1,18 +1,18 @@
-<h1 align="center">Frontend Developer</h1>
+<h1 align="center">Junior Software Developer</h1>
  
 ---
  
-                Hi 👋 I'm Lukasz, a passionate frontend developer eager to expand into full-stack development.
+                Hi 👋 I'm Lukasz, a passionate software developer eager to broaden his horizons.
  
 ---
  
-➡️ 👨‍💻 Currently working on projects using **React** and **Vue**
+➡️ 👨‍💻 Currently working on projects using **Next** and **Python**
  
-➡️ 💼 Experienced in commercial projects using **HTML**, **CSS**, **JavaScript**, and **TypeScript**
+➡️ 💼 Experienced in commercial projects using **Next**, **Nuxt**, **Typescript**, and **Express**
  
 ➡️ 📚 Learning **Python** for **Artificial Intelligence** and **Server-side** development
  
-➡️ 🛠️ Improving skills in **Next.js** and **Docker** to become Full Stack
+➡️ 🛠️ Improving skills in **Next.js** and **Express.js** to enhance Full Stack performance
  
 <h3 align="left">Tech Stack:</h3>
  
@@ -32,22 +32,27 @@
   <p align="left">
     <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
     <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/></a>
-    <a href="https://www.cplusplus.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
-  </p>
+	<a href="https://nodejs.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+    </a>
+    <a href="https://expressjs.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
+    </a>  
+</p>
   <li style="font-size: 1.5em; font-weight: bold; color: #3F51B5;">OTHERS</li>
   <p align="left">
-    <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/></a>
     <a href="https://www.atlassian.com/software/jira" target="_blank"><img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="Jira" width="40" height="40"/></a>
     <a href="https://www.postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a>
     <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
     <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
-  </p>
+	 <a href="https://www.cplusplus.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>  
+</p>
 </ul>
  
 <h3 align="left">Connect with me:</h3>
  
 <p align="left">
-  <a href="mailto:comantel@wp.pl"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" height="30" width="40"/></a>
+  <a href="mailto:lukaszkowalski240@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" height="30" width="40"/></a>
   <a href="https://www.linkedin.com/in/łukasz-kowalski-090963295/" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" height="30" width="40"/></a>
 </p>
  
@@ -56,4 +61,3 @@
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KowaloskiX&show_icons=true&theme=radical&locale=en&layout=compact" alt="Language stats"/>
 </p>
- 
